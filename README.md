@@ -1,9 +1,13 @@
 # AI-GROWING-USTB-305LAB
 
 
-welcome come to AI-Growing-project<br>
-hope you have fun here!
+Welcome come to AI-Growing-project<br>
+Hope you have fun here!
 
 
-##This place cantain six topic
-* code practice
+##This place cantain four topic
+*Project practice
+*Reference material
+*Code collaboration 
+*Homework submission
+
