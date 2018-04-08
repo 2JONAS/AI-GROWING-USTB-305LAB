@@ -14,13 +14,13 @@ Hope you have fun here!
 
 ## In the next few weeks 
 I hope you will master the following skills
-* Konw how to bing/yahoo rather than baidu
+### Konw how to bing/yahoo rather than baidu
 You can get a new concept and workstyle through browse the stackflow, mathworks, github
-* Get the basic konwledge of computer vision 
+### Get the basic konwledge of computer vision 
   * Use the opencv detect the red thing
   * Use the haar adaboost detect the car
   * Use the opencv build a new beauty camera
-* Convolution neural network
+### Convolution neural network
  * Know the history of the cnn
  * Know the structure of the cnn
  * test in minist
