@@ -1,4 +1,4 @@
-# This is place where you can get the reference material 
+
 # Do not hesitate to pull the request if you find something useful 
 
 I recommend that you use the opencv(python) to deal the computer vision problem<br>
