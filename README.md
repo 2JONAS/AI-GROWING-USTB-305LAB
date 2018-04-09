@@ -19,7 +19,9 @@ You can get a new concept and workstyle through browse the stackflow, mathworks,
 ### Get the basic konwledge of computer vision 
   
   * Use the opencv detect the red thing<br>
+  
   * Use the haar adaboost detect the car<br>
+  
   * Use the opencv build a new beauty camera<br>
 ### Convolution neural network
   * Know the history of the cnn
