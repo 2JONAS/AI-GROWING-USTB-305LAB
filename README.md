@@ -5,7 +5,7 @@ Welcome come to AI-Growing-project<br>
 Hope you have fun here!
 
 
-## This place cantain five topic<br>
+## This place cantains five topic<br>
 * Project practice<br>
 * Reference material<br>
 * Code collaboration <br>
@@ -26,4 +26,8 @@ You can get a new concept and workstyle through browse the stackflow, mathworks,
  * test in minist
  * test the alexnet
  * Train your own net use the open data/collected data
+### Transfer Learning
+ * Use the vgg16net train your own net
+### GAN
+
  
