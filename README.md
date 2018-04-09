@@ -21,11 +21,11 @@ You can get a new concept and workstyle through browse the stackflow, mathworks,
   * Use the haar adaboost detect the car
   * Use the opencv build a new beauty camera
 ### Convolution neural network
- * Know the history of the cnn
- * Know the structure of the cnn
- * test in minist
- * test the alexnet
- * Train your own net use the open data/collected data
+  * Know the history of the cnn
+  * Know the structure of the cnn
+  * test in minist
+  * test the alexnet
+  * Train your own net use the open data/collected data
 ### Transfer Learning
  * Use the vgg16net train your own net
 ### GAN
